@@ -6,4 +6,4 @@
 - [cut-settings.md](cut-settings.md) (素材ごとのカット設定)
 - [make-data.md](make-data.md) (レーザーカッターで印刷できるデータの作り方)
 - [make-data-ex.md](make-data-ex.md) (少し高度な印刷テクニック)
-- [inkscape-settings.md](inkscape-settings.md)(イラストソフトInkskapeの設定)
+- [inkscape-setteings.md](inkscape-setteings.md)(イラストソフトInkskapeの設定)
