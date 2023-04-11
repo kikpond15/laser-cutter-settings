@@ -1,5 +1,5 @@
 # レーザーカッター素材ごとのカット設定
-使用するのは**[Epilog Laser mini (40W)](https://jp.epiloglaser.com/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3/mini-helix-engraver-cutter/
+使用するのは **[Epilog Laser mini (40W)](https://jp.epiloglaser.com/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3/mini-helix-engraver-cutter/
 )**
 
 
